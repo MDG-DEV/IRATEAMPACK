@@ -1,9 +1,10 @@
-## Welcome to GitHub Pages
-[Link](url) and ![Image](src)
+## Welcome to IRA TEAM SITE
 
-You can use the [editor on GitHub](https://github.com/MDG-DEV/IRATEAMPACK/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Downloads
+Download Our Pack [clicking here](https://discord.gg/UBjVNud) Need a discord account!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+##Our Developers
+Our Developers [list](https://shrib.com/#iradev)
 
 ### free discord tokens
 
