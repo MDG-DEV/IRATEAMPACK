@@ -6815,15 +6815,6 @@ NJD8p54lMEzNsFbbY1VMD0hZ.2m8HX6.eMqHY5MEZNTFc1YSVMDpi05BdqJ
 NJm3VSdLR3y7NSbK2rn7O2kX.MEu92L.n2Vsem720KNscKdroK6ULX2qrYC
 NJ3w52JkvF4hhebsIrgI5zOV.VwZDJK.9wzD4lvFYiifcTIrhIzz6VXghF9
 
-[Link](url) and ![Image](src)
+
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MDG-DEV/IRATEAMPACK/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Our Site Created By MDG
